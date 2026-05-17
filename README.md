@@ -37,6 +37,7 @@ A simple two‑tier **Notepad application** built with:
   1. Clone the repository
 ``` bash
     git clone https://github.com/<your-username>/notepad-app.git
+```
     cd notepad-app
   3. Build and start containers
     docker-compose up --build
