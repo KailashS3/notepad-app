@@ -15,7 +15,7 @@ A simple two‑tier **Notepad application** built with:
 ---
 
 ## 📂 Project Structure
-notepad-app/
+``` notepad-app/
 ├─ app.py                # Flask application
 ├─ requirements.txt      # Python dependencies
 ├─ templates/
@@ -24,10 +24,7 @@ notepad-app/
 │    └─ style.css        # CSS styling
 ├─ Dockerfile            # Flask app container
 └─ docker-compose.yml    # Multi-container setup
-
-
----
-
+```
 ## 🚀 Features
 - Add notes via a simple web form.
 - View all saved notes.
@@ -36,15 +33,14 @@ notepad-app/
 - Containerized deployment with Docker Compose.
 - Healthchecks and restart policies for resilience.
 
----
-
 ## ⚙️ Setup & Run
   1. Clone the repository
+``` bash
     git clone https://github.com/<your-username>/notepad-app.git
     cd notepad-app
-  2. Build and start containers
+  3. Build and start containers
     docker-compose up --build
-  3. Access the app
+  4. Access the app
     http://localhost:8080
 
 ### 🐳 Docker Compose Overview
@@ -55,7 +51,7 @@ restart policy: always
 healthchecks: ensure both containers are alive
 
 ## 🔧 Configuration
-Database connection details are set directly in app.py:
+Database connection details are set directly in app.py
 DB_HOST = "db"
 DB_USER = "root"
 DB_PASSWORD = "rootpass"
