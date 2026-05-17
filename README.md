@@ -45,11 +45,11 @@ A simple two‑tier **Notepad application** built with:
     http://localhost:8080
 
 ### 🐳 Docker Compose Overview
-app: Flask application container
-db: MySQL 5.7 container with persistent volume
-network: Bridge network for communication
-restart policy: always
-healthchecks: ensure both containers are alive
+  app: Flask application container
+  db: MySQL 5.7 container with persistent volume
+  network: Bridge network for communication
+  restart policy: always
+  healthchecks: ensure both containers are alive
 
 ## 🔧 Configuration
 Database connection details are set directly in app.py
