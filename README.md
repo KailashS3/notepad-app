@@ -62,9 +62,9 @@ DB_NAME = "notesdb"
 
 ## 📸 Demo Screenshot
 **Add notes**
-
+```
 <img width="940" height="620" alt="image" src="https://github.com/user-attachments/assets/9b12e10c-1ed8-45b4-8c30-3b34912fda0f" />
-
+```
 **Delete note "Deleting it"**
 
 <img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/d5497c31-1439-42fb-adf6-9df890987e44" />
