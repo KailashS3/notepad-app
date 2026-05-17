@@ -46,10 +46,10 @@ git clone https://github.com/<your-username>/notepad-app.git
 
 ### 🐳 Docker Compose Overview
   - **app:** Flask application container
-  2. db: MySQL 5.7 container with persistent volume
-  3. network: Bridge network for communication
-  4. restart policy: always
-  5. healthchecks: ensure both containers are alive
+  - **db:** MySQL 5.7 container with persistent volume
+  - **network:** Bridge network for communication
+  - **restart policy:** always
+  - **healthchecks:** ensure both containers are alive
 
 ## 🔧 Configuration
 Database connection details are set directly in app.py
