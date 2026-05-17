@@ -35,7 +35,7 @@ A simple two‑tier **Notepad application** built with:
 
 ## ⚙️ Setup & Run
   1. Clone the repository
-``` bash
+``` 
     git clone https://github.com/<your-username>/notepad-app.git
 ```
     cd notepad-app
@@ -53,7 +53,8 @@ healthchecks: ensure both containers are alive
 
 ## 🔧 Configuration
 Database connection details are set directly in app.py
-```DB_HOST = "db"
+```
+DB_HOST = "db"
 DB_USER = "root"
 DB_PASSWORD = "rootpass"
 DB_NAME = "notesdb"
