@@ -63,10 +63,10 @@ DB_NAME = "notesdb"
 ## 📸 Demo Screenshot
 **Add notes**
 
-<img width="350" height="120" alt="image" src="https://github.com/user-attachments/assets/9b12e10c-1ed8-45b4-8c30-3b34912fda0f" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/9b12e10c-1ed8-45b4-8c30-3b34912fda0f" />
 
 **Delete note "Deleting it"**
 
-<img width="350" height="120" alt="image" src="https://github.com/user-attachments/assets/d5497c31-1439-42fb-adf6-9df890987e44" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/d5497c31-1439-42fb-adf6-9df890987e44" />
 
 
