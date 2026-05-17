@@ -53,9 +53,9 @@ healthchecks: ensure both containers are alive
 
 ## 🔧 Configuration
 Database connection details are set directly in app.py
-DB_HOST = "db"
+```DB_HOST = "db"
 DB_USER = "root"
 DB_PASSWORD = "rootpass"
 DB_NAME = "notesdb"
-
+```
 
