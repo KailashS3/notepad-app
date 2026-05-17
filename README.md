@@ -51,18 +51,14 @@ docker-compose up --build
 3. Access the app
 http://localhost:8080
 
-🐳 Docker Compose Overview
+### 🐳 Docker Compose Overview
 app: Flask application container
-
 db: MySQL 5.7 container with persistent volume
-
 network: Bridge network for communication
-
 restart policy: always
-
 healthchecks: ensure both containers are alive
 
-🔧 Configuration
+## 🔧 Configuration
 Database connection details are set directly in app.py:
 DB_HOST = "db"
 DB_USER = "root"
