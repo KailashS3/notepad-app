@@ -67,6 +67,6 @@ DB_NAME = "notesdb"
 
 **Delete note "Deleting it"**
 
-<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/d5497c31-1439-42fb-adf6-9df890987e44" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/d5497c31-1439-42fb-adf6-9df890987e44" />
 
 
