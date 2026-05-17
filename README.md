@@ -39,17 +39,13 @@ notepad-app/
 ---
 
 ## ⚙️ Setup & Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/notepad-app.git
-cd notepad-app
-
-2. Build and start containers
-docker-compose up --build
-
-3. Access the app
-http://localhost:8080
+  1. Clone the repository
+    git clone https://github.com/<your-username>/notepad-app.git
+    cd notepad-app
+  2. Build and start containers
+    docker-compose up --build
+  3. Access the app
+    http://localhost:8080
 
 ### 🐳 Docker Compose Overview
 app: Flask application container
