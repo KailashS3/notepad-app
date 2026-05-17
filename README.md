@@ -1,6 +1,6 @@
 # 📝 Notepad App (Flask + MySQL + Docker)
 
-![Python](https://img.shields.io/badge/Python-3.9 slim-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
