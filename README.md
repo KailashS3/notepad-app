@@ -36,7 +36,7 @@ A simple two‑tier **Notepad application** built with:
 ## ⚙️ Setup & Run
   1. Clone the repository
 ``` 
-    git clone https://github.com/<your-username>/notepad-app.git
+git clone https://github.com/<your-username>/notepad-app.git
 ```
     cd notepad-app
   3. Build and start containers
@@ -45,11 +45,11 @@ A simple two‑tier **Notepad application** built with:
     http://localhost:8080
 
 ### 🐳 Docker Compose Overview
-  app: Flask application container
-  db: MySQL 5.7 container with persistent volume
-  network: Bridge network for communication
-  restart policy: always
-  healthchecks: ensure both containers are alive
+  - **app:** Flask application container
+  2. db: MySQL 5.7 container with persistent volume
+  3. network: Bridge network for communication
+  4. restart policy: always
+  5. healthchecks: ensure both containers are alive
 
 ## 🔧 Configuration
 Database connection details are set directly in app.py
