@@ -36,7 +36,7 @@ A simple two‑tier **Notepad application** built with:
 ## ⚙️ Setup & Run
   1. Clone the repository
 ``` 
-git clone https://github.com/<your-username>/notepad-app.git
+git clone https://github.com/KailashS3/notepad-app.git
 ```
     cd notepad-app
   3. Build and start containers
