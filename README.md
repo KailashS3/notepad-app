@@ -37,12 +37,16 @@ A simple two‑tier **Notepad application** built with:
   1. Clone the repository
 ``` 
 git clone https://github.com/KailashS3/notepad-app.git
+ cd notepad-app
 ```
-    cd notepad-app
-  3. Build and start containers
+  2. Build and start containers
+   ```
     docker-compose up --build
-  4. Access the app
-    http://localhost:8080
+  ```
+  3. Access the app
+```
+http://localhost:8080
+```
 
 ### 🐳 Docker Compose Overview
   - **app:** Flask application container
